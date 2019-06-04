@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96b0891064bb9394aa0c71e0bd393feb, type: 3}
+  m_Name: Game Settings
+  m_EditorClassIdentifier: 
+  categories:
+  - categoryName: 1
+    questions:
+    - difficultyLevel: 0
+      questions:
+      - question: What is a whale?
+        options:
+        - option: Mammal
+          isCorrect: 1
+        - option: Bird
+          isCorrect: 0
+        - option: Robot
+          isCorrect: 0
+        - option: Fish
+          isCorrect: 0
+    - difficultyLevel: 1
+      questions:
+      - question: What is Unity 3D?
+        options:
+        - option: Game Engine
+          isCorrect: 1
+        - option: Hardware
+          isCorrect: 0
+        - option: CPU Processor
+          isCorrect: 0
+        - option: 3D Modelling
+          isCorrect: 0

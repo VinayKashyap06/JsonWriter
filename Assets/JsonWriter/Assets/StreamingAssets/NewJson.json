@@ -1,0 +1,61 @@
+{
+    "categories": [
+        {
+            "categoryName": 1,
+            "questions": [
+                {
+                    "difficultyLevel": 0,
+                    "questions": [
+                        {
+                            "question": "What is a whale?",
+                            "options": [
+                                {
+                                    "option": "Mammal",
+                                    "isCorrect": true
+                                },
+                                {
+                                    "option": "Bird",
+                                    "isCorrect": false
+                                },
+                                {
+                                    "option": "Robot",
+                                    "isCorrect": false
+                                },
+                                {
+                                    "option": "Fish",
+                                    "isCorrect": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "difficultyLevel": 1,
+                    "questions": [
+                        {
+                            "question": "What is Unity 3D?",
+                            "options": [
+                                {
+                                    "option": "Game Engine",
+                                    "isCorrect": true
+                                },
+                                {
+                                    "option": "Hardware",
+                                    "isCorrect": false
+                                },
+                                {
+                                    "option": "CPU Processor",
+                                    "isCorrect": false
+                                },
+                                {
+                                    "option": "3D Modelling",
+                                    "isCorrect": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
